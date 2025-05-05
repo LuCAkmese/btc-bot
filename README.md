@@ -1,0 +1,2 @@
+# btc-bot
+Trading bot
