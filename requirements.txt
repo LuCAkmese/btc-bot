@@ -1,4 +1,6 @@
-requests
+dash
+plotly
 pandas
+requests
 numpy
 python-dotenv
