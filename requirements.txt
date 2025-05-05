@@ -4,6 +4,5 @@ pandas
 requests
 numpy==1.24.4
 python-dotenv
-setuptools
+setuptools>=58.0.0
 wheel
-pandas_ta
